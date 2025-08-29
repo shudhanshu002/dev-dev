@@ -1,0 +1,7 @@
+name = "medium-blog"
+main = "src/index.ts"   # or your entry file
+compatibility_date = "2025-08-24"
+
+[vars]
+#DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqd3RfaWQiOjEsInNlY3VyZV9rZXkiOiJza19WNVFSTWhpbkFOczBfaS1UQUpNZTEiLCJhcGlfa2V5IjoiMDFLM0pHOEUyVktBMFRCRTRWUE43TkJSNEEiLCJ0ZW5hbnRfaWQiOiJiMjRjMmVlNzEyMTMzZGVmOTViMzVhMDAzMTQ0OTY3ZGY2MjZmMmIxZDEwNjUzYTM0ZGQxNTMzNDJmNzIyNzAzIiwiaW50ZXJuYWxfc2VjcmV0IjoiMGFmMTJlZmUtMTBlZC00MTBkLTg2OGUtNTFhMjNiMmExNjQ1In0.AAKAj2OcjmsTp4GovtvsQXh0ssynkRSo31CdyxHgPD4"
+#JWT_SECRET = "sudhawer123"

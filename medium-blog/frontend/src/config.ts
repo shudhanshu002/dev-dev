@@ -1,0 +1,1 @@
+export const BACKEND_END = "http://127.0.0.1:8787"
